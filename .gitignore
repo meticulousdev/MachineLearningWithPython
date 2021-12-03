@@ -1,4 +1,9 @@
+# data
 tutorial/data
+kaggle/titanic/data
+
 document
-source
+
+# source code
+tutorial/source
 .DS_Store
