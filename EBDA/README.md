@@ -1,0 +1,1 @@
+- 빅데이터 분석기사(Engineer Big Data Analysis) 준비자료: [2021 빅데이터분석기사 실기; 저자 김원표; 데이터캠퍼스, 와이즈인컴퍼니 (2021)(https://www.datacampus.co.kr/book/book_view.jsp?id=3228&)]
